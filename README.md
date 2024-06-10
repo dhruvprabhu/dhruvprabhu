@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dhruvprabhu1002@gmail.com**
 
-- 📄 Know about my experiences [Data Warehouse Development Intern @ NSE India](Data Warehouse Development Intern @ NSE India)
+- 📄 Know about my experiences [Data Warehouse Development Intern @ NSE India]
 
 - ⚡ Fun fact **I am goofy**
 
